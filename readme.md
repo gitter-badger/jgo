@@ -1,6 +1,8 @@
 Description
 ===========
 
+[![Join the chat at https://gitter.im/thomasmodeneis/jgo](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/thomasmodeneis/jgo?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 ![JGO](http://jgo.herokuapp.com/images/jgo3.png) The [JGo Project](http://jgo.herokuapp.com/) aims to provide a complete compiler and runtime environment for the Go programming language to/on the Java Virtual Machine.
 The jgoc compiler is written in Scala and the runtime in Java.
 
